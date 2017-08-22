@@ -21,7 +21,7 @@ author_image: "/assets/images/BBC-logo-sans-texte.png"
 
 paginate:	5
 
-url: "" # the base hostname & protocol for your site
+url: "https://bordeauxbrewers.club" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@bdxbrewersclub'
