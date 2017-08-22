@@ -1,0 +1,62 @@
+# Build settings
+gems:
+  - jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Bordeaux Brewers Club"
+description: Club de brasseurs amateurs et artisanaux à Bordeaux
+
+email: a-mail@mail.mail
+#blog logo
+logo: "/assets/images/BBC-logo-sans-texte.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/3-ingredients-beer.jpg"
+
+name: 'Bordeaux Brewers Club'
+author: 'Bordeaux Brewers Club'
+author_image: "/assets/images/BBC-logo-sans-texte.png"
+
+paginate:	5
+
+url: "" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@bdxbrewersclub'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+google_analytics: UA-105071211-1
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/bdxbrewersclub
+    desc: Suivez nous sur witter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/groups/707959855967353/
+    desc: Se joindre à nous sur Facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+# - icon:	github
+#   url:	https://github.com/dirkfabisch
+#   desc:	Fork me on github
+#   share_url:
+#   share_title:
+#   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
