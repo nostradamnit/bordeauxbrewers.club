@@ -8,5 +8,5 @@ image: /assets/article_images/2015-02-25-brassage/homebrew.jpg
 image2: /assets/article_images/2015-02-25-brassage/homebrew.jpg
 ---
 
-#Brassage
+# Brassage
 On brasse de la biere ensemble, reguilierement. On brasse chez nous et dans des lieux public, et meme dans des brassieres commerciales
