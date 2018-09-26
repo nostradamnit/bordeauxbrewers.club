@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
@@ -29,7 +29,7 @@ twitter_handle: '@bdxbrewersclub'
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
-google_analytics: UA-105071211-1
+#google_analytics: UA-105071211-1
 
 # social icons and sharing options
 social:

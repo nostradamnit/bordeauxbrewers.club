@@ -5,4 +5,4 @@ permalink: /about/
 image: "/assets/images/taps.jpg"
 ---
 
-#Qu'est qu'on fait et pourquoi on le fait
+# Qu'est qu'on fait et pourquoi on le fait
