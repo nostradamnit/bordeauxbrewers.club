@@ -3,6 +3,7 @@ Bordeaux Brewers Club
 
 Site pour le club, forké de mediator
 
+[Bordeaux Brewers Club](http://bordeauxbrewers.club/)
 
 
 
